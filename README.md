@@ -1,4 +1,0 @@
-zf
-==
-
-zf works
